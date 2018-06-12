@@ -1,7 +1,6 @@
-#11th June
+# 11th June
 
 ## What we've covered so far?
-Today we learnt...
 
 ### Stylometry:
 By now you should be familiar with:
@@ -10,22 +9,19 @@ By now you should be familiar with:
 * cluster analysis method
 * bootstrap consensus tree (more on that tomorrow!)
 
-### The reading behind that (three first texts in your coursepack):
-* Rybicki, J., Eder, M., Hoover, D. L. "Computational Stylistics and Text Analysis."
-in Doing Digital Humanities. Practice, Training, Research. Eds Crompton, C.,
-Lane, R.J., Siemens, R. Oxford: Routledge, 2016, pp. 123-144.
-* Jockers, M. L. “Part I: Foundation.” in Macroanalysis. Digital Methods and Literary
-History., University of Illinois Press, 2013, pp. 1-32.
-* Hoover, D. L. “Quantitative Analysis and Literary Studies.” A Companion to Digital
-Literary Studies, edited by Ray Siemens and Susan Schreibman, Blackwell, 2008
-(text from online version). 
+### The reading behind that (the three first texts are in your coursepack):
+* Rybicki, J., Eder, M., Hoover, D. L. "Computational Stylistics and Text Analysis." in Doing Digital Humanities. Practice, Training, Research. Eds Crompton, C., Lane, R.J., Siemens, R. Oxford: Routledge, 2016, pp. 123-144.
+* Jockers, M. L. “Part I: Foundation.” in Macroanalysis. Digital Methods and Literary History., University of Illinois Press, 2013, pp. 1-32.
+* Hoover, D. L. “Quantitative Analysis and Literary Studies.” A Companion to Digital Literary Studies, edited by Ray Siemens and Susan Schreibman, Blackwell, 2008 (text from online version). 
+* Burrows, J. F. Computation into Criticism: A Study of Jane Austen’s Novels and Experiment in Method. Clarendon Press, 1987. *You can find it in UVic's library!*
+
 
 ## Cool links to check out:
-[Stylo on Github - a must-know](https://github.com/computationalstylistics/stylo) 
-While this is more advanced than the presentation Jan sent you, you can take a look at general Stylo in a nutshell presentation. We'll be covering issues discussed in it for the next two days.
-[Professor John Burrows talking stylometry](https://youtu.be/0QpJFAjdKz8)
-[Awesome dialect quiz - thanks, Margaret!](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)
-[The language of Trump](http://rpubs.com/jwgrieve/338803)
+[Stylo on Github](https://github.com/computationalstylistics/stylo) - a must-know link - this is where everything happens.
+While this is more advanced than the presentation Jan sent you, you can take a look at general [Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/) presentation. We'll be covering issues discussed in it for the next two days.  
+[Professor John Burrows talking about stylometry all over the world](https://youtu.be/0QpJFAjdKz8)  
+[Awesome dialect quiz - thanks, Margaret!](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)  
+[The language of Trump - by Jack Grieve and Isobelle Clarke](http://rpubs.com/jwgrieve/338803)  
 
 ## Homework:
 Prepare your corpus (about 20-30 texts of approx. similar length, saved in plain text (txt) format, UTF-8 encoding. One source of texts is [Project Gutenberg](http://www.gutenberg.org/)
