@@ -23,5 +23,4 @@ While this is more advanced than the presentation Jan sent you, you can take a l
 [The language of Trump - research by Jack Grieve and Isobelle Clarke.](http://rpubs.com/jwgrieve/338803)  
 
 ## Homework:
-Prepare your corpus (about 20-30 texts of approx. similar length, saved in plain text (txt) format, UTF-8 encoded. One source of texts you may want to choose is [Project Gutenberg](http://www.gutenberg.org/)
-
+Prepare your corpus (about 20-30 texts of approx. similar length, saved in plain text (txt) format, UTF-8 encoded. One source of texts you may want to choose is [Project Gutenberg](http://www.gutenberg.org/).  
