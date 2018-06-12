@@ -20,6 +20,9 @@ Hoover, D. (2007). Corpus Stylistics, Stylometry, and the Styles of Henry James.
 Drożdż, S., et al. (2016). Quantifying origin and character of long-range correlations in narrative texts. Information Sciences, 331, 32–44. https://doi.org/10.1016/j.ins.2015.10.023   [OA, click](https://www.sciencedirect.com/science/article/pii/S0020025515007513)
 * Maciej Eder's chemical linguistics project, paper on results so far:   
 Woźniak, M., et al. (2018). Linguistic measures of chemical diversity and the “keywords” of molecular collections. Scientific Reports, 8(1), 7598. https://doi.org/10.1038/s41598-018-25440-6   [OA, click](https://www.nature.com/articles/s41598-018-25440-6)
+* Jan's paper with Magda Heydel on collaborative translation:
+Rybicki, J., & Heydel, M. (2013). The stylistics and stylometry of collaborative translation: Woolf’s Night and Day in Polish. Literary and Linguistic Computing, 28(4), 708–717. https://doi.org/10.1093/llc/fqt027
+[OA, click](https://academic.oup.com/dsh/article/28/4/708/1076109)
 
 ## Cool links to check out
 ### For playing with corpus
