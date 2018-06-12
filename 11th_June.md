@@ -2,11 +2,11 @@
 
 ## What we've covered so far?
 
-### Stylometry:
+### Introduction to stylometry:
 By now you should be familiar with:
 * most frequent words and why they matter,
 * the concept of Delta distance measure,
-* cluster analysis method
+* cluster analysis - simple classification supervised machine learning method,
 * bootstrap consensus tree (more on that tomorrow!)
 
 ### The reading behind that (the three first texts are in your coursepack):
@@ -15,14 +15,13 @@ By now you should be familiar with:
 * Hoover, D. L. “Quantitative Analysis and Literary Studies.” A Companion to Digital Literary Studies, edited by Ray Siemens and Susan Schreibman, Blackwell, 2008 (text from online version). 
 * Burrows, J. F. Computation into Criticism: A Study of Jane Austen’s Novels and Experiment in Method. Clarendon Press, 1987. *You can find it in UVic's library!*
 
-
 ## Cool links to check out:
-[Stylo on Github](https://github.com/computationalstylistics/stylo) - a must-know link - this is where everything happens.
-While this is more advanced than the presentation Jan sent you, you can take a look at general [Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/) presentation. We'll be covering issues discussed in it for the next two days.  
-[Professor John Burrows talking about stylometry all over the world](https://youtu.be/0QpJFAjdKz8)  
+[Stylo on Github](https://github.com/computationalstylistics/stylo) - a must-know link - this is where everything related to *stylo* happens.
+While this is more advanced than the presentation Jan sent you, you can take a look at a more general [Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/) presentation. We'll be covering issues discussed in it for the next two days.  
+[Professor John Burrows talking about stylometry all over the world.](https://youtu.be/0QpJFAjdKz8)  
 [Awesome dialect quiz - thanks, Margaret!](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)  
-[The language of Trump - by Jack Grieve and Isobelle Clarke](http://rpubs.com/jwgrieve/338803)  
+[The language of Trump - research by Jack Grieve and Isobelle Clarke.](http://rpubs.com/jwgrieve/338803)  
 
 ## Homework:
-Prepare your corpus (about 20-30 texts of approx. similar length, saved in plain text (txt) format, UTF-8 encoding. One source of texts is [Project Gutenberg](http://www.gutenberg.org/)
+Prepare your corpus (about 20-30 texts of approx. similar length, saved in plain text (txt) format, UTF-8 encoded. One source of texts you may want to choose is [Project Gutenberg](http://www.gutenberg.org/)
 
