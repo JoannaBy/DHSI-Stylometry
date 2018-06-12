@@ -6,6 +6,7 @@
   * Collaborative authorship.
   * Stylochronology.
   * Literary big data as a network.  
+* Gephi hands on! See [Jan's presentation](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/Plans%20and%20instructions%20DHSI%202018.pdf)
   
 ### The reading
 #### Networks and "big" data
