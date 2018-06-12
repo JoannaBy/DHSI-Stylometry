@@ -17,9 +17,9 @@
 * David Hoover's work on Stylochronometry of Henry James:  
 Hoover, D. (2007). Corpus Stylistics, Stylometry, and the Styles of Henry James. Style, 41(2), 174-203. Retrieved from http://www.jstor.org/stable/10.5325/style.41.2.174  
 * Jan's paper on sentence length distributions:  
-Drożdż, S., Oświȩcimka, P., Kulig, A., Kwapień, J., Bazarnik, K., Grabska-Gradzińska, I., … Stanuszek, M. (2016). Quantifying origin and character of long-range correlations in narrative texts. Information Sciences, 331, 32–44. https://doi.org/10.1016/j.ins.2015.10.023 [OA, click](https://www.sciencedirect.com/science/article/pii/S0020025515007513)
-* Maciej Eder's chemical linguistics project:   
-Woźniak, M., Wołos, A., Modrzyk, U., Górski, R. L., Winkowski, J., Bajczyk, M., … Eder, M. (2018). Linguistic measures of chemical diversity and the “keywords” of molecular collections. Scientific Reports, 8(1), 7598. https://doi.org/10.1038/s41598-018-25440-6
+Drożdż, S., et al. (2016). Quantifying origin and character of long-range correlations in narrative texts. Information Sciences, 331, 32–44. https://doi.org/10.1016/j.ins.2015.10.023 [OA, click](https://www.sciencedirect.com/science/article/pii/S0020025515007513)
+* Maciej Eder's chemical linguistics project, paper on results so far:   
+Woźniak, M., et al. (2018). Linguistic measures of chemical diversity and the “keywords” of molecular collections. Scientific Reports, 8(1), 7598. https://doi.org/10.1038/s41598-018-25440-6
 [OA, click](https://www.nature.com/articles/s41598-018-25440-6)
 
 ## Cool links to check out
