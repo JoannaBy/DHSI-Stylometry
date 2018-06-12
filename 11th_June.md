@@ -1,4 +1,4 @@
-#11th June
+# 11th June
 
 ## What we've covered so far?
 Today we learnt...
