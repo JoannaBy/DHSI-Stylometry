@@ -3,8 +3,8 @@
 ### Introduction to stylometry
 * How are networks useful to literary studies?
 * Exploring relations between authors with networks.
-** Collaborative authorship.
-** Stylochronology.
+  * Collaborative authorship.
+  * Stylochronology.
 ### The reading
 ## Cool links to check out
 ### For playing with corpus
