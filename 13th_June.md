@@ -2,7 +2,9 @@
 ## What have we covered today?
 ### Introduction to stylometry
 * How to compare corpora? How to divide corpus into representative samples?
-* Craig's Zeta and its implementation in oppose() function of 'stylo' package.
+* Craig's Zeta and its implementation in oppose() function of 'stylo' package:
+  * preferred / avoided words,
+  * markers.
 
 ### The reading
 #### From the coursepack
