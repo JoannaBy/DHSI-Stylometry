@@ -25,6 +25,12 @@ Woźniak, M., et al. (2018). Linguistic measures of chemical diversity and the �
 Rybicki, J., & Heydel, M. (2013). The stylistics and stylometry of collaborative translation: Woolf’s Night and Day in Polish. Literary and Linguistic Computing, 28(4), 708–717. https://doi.org/10.1093/llc/fqt027
 [OA, click](https://academic.oup.com/dsh/article/28/4/708/1076109)
 
+#### From the coursepack - documentation of functions we used today:
+* [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-stylo)
+* Eder, M., Kestemont, M. and Rybicki, J. ‘Stylo’: a package for stylometric analyses (a manual). 2015. [Click.](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf?attredirects=1) - pages 7-21.
+* [CRAN documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) - pages 60-66.
+* Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
+
 ## Cool links to check out
 ### For playing with corpus
 * [Notepad++](https://notepad-plus-plus.org/) - tool good for changing formatting, allows for editing multiple files at the same time.  
