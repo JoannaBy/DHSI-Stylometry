@@ -3,7 +3,8 @@
 ### Introduction to stylometry
 * How to compare corpora? How to divide corpus into representative samples?
 * Craig's Zeta and its implementation in oppose() function of 'stylo' package:
-  * preferred / avoided words,
+  * words preferred - words consistently used only in the primary set,
+  * words avoided - words consistently used only in the secondary set,
   * markers.
 
 ### The reading
