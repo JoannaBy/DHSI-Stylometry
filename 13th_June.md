@@ -26,3 +26,4 @@ Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguist
 
 ## Cool links to check out
 [Additional function to add extra table with frequencies](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/stylo.excelify.table.R) - might be very useful if you're having problems browsing through your results in Excel - thank you Iain!  
+[AntConc](http://www.laurenceanthony.net/software.html) - freeware for easy text analysis.  
