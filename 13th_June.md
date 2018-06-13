@@ -10,6 +10,12 @@
 * Burrows, J. “All the Way Through: Testing for Authorship in Different Frequency Strata.” Literary and Linguistic Computing, vol. 22, no. 1, Apr. 2007, pp. 27–47.
 * Hoover, D. L. “Teasing Out Authorship and Style with T-Tests and Zeta”. DH2010 Book of Abstracts.
 
+#### From the coursepack - documentation of functions we used today:
+* [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-oppose)
+* Eder, M., Kestemont, M. and Rybicki, J. ‘Stylo’: a package for stylometric analyses (a manual). 2015. [Click.](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf?attredirects=1) - pages 26-27.
+* [CRAN documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) - pages 39-41.
+* Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
+
 #### Extras
 * Jan's paper on gender differences (the one with yelling):  
 Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Multivariate Analysis of Word Frequencies.” Digital Scholarship in the Humanities, vol. 31, no. 4, Dec. 2016, pp. 746–61, doi:10.1093/llc/fqv023.
