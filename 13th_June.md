@@ -17,3 +17,4 @@ Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Mul
 Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.
 
 ## Cool links to check out
+[Additional function to add extra table with frequencies](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/stylo.excelify.table.R) - might be very useful if you're having problems browsing through your results in Excel - thank you Iain!  
