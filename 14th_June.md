@@ -8,6 +8,8 @@
 
 ### The reading
 #### From the coursepack
+* Burrows, J. “‘Delta’: A Measure of Stylistic Difference and a Guide to Likely Authorship.” Literary and Linguistic Computing, vol. 17, no. 3, Sept. 2002, pp. 267–87.  
+* Eder, M. “Rolling Stylometry.” Digital Scholarship in the Humanities, vol. 31, no. 3, Sept. 2016, pp. 457–69. 
 
 #### From the coursepack - documentation of functions we used today:
 * [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-rolling.classify)
