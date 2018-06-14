@@ -11,7 +11,7 @@
 
 #### From the coursepack - documentation of functions we used today:
 * [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-rolling.classify)
-* Eder, M., Kestemont, M. and Rybicki, J. ‘Stylo’: a package for stylometric analyses (a manual). 2015. [Click.](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf?attredirects=1) - pages 26-27.
+* Eder, M., Kestemont, M. and Rybicki, J. ‘Stylo’: a package for stylometric analyses (a manual). 2015. [Click.](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf?attredirects=1) - pages .
 * [CRAN documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf)
 * Eder, M., Kestemont, M. and Rybicki, J. “Stylometry with R: A Package for Computational Text Analysis.” The R Journal, vol. 8, no. 1, 2016, pp. 107–21. [Click.](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) 
 #### Extras
@@ -19,3 +19,4 @@
 [Rolling stylometry](https://computationalstylistics.github.io/docs/rolling_stylometry)
 [Using custom distance measures](https://computationalstylistics.github.io/docs/custom_distances)
 ## Cool links to check out
+[Pennebaker's The Secret Life of Pronouns](http://www.secretlifeofpronouns.com/) - book on how gender (and many other factors) determines our use of pronouns.
