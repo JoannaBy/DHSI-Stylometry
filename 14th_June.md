@@ -22,3 +22,4 @@
 [Using custom distance measures](https://computationalstylistics.github.io/docs/custom_distances)  
 ## Cool links to check out
 [Pennebaker's The Secret Life of Pronouns](http://www.secretlifeofpronouns.com/) - book on how gender (and many other factors) determines our use of pronouns.
+[Go Set A Watchman while we Kill the Mockingbird In Cold Blood](https://sites.google.com/site/computationalstylistics/projects/lee_vs_capote)
