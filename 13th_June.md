@@ -6,6 +6,7 @@
   * words preferred - words consistently used only in the primary set,
   * words avoided - words consistently used only in the secondary set,
   * markers.
+* Experiments with stoplists (more on that tomorrow)
 
 ### The reading
 #### From the coursepack
@@ -23,8 +24,17 @@
 * Jan's paper on gender differences (the one with yelling):  
 Rybicki, J. “Vive La Différence: Tracing the (Authorial) Gender Signal by Multivariate Analysis of Word Frequencies.” Digital Scholarship in the Humanities, vol. 31, no. 4, Dec. 2016, pp. 746–61, doi:10.1093/llc/fqv023.
 * Detailed insight into comparing corpora:  
-Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.
+Kilgarriff, Adam. “Comparing Corpora. International Journal of Corpus Linguistics, vol. 6, no. 1, 2001, pp. 97–133.
 
 ## Cool links to check out
 [Additional function to add extra table with frequencies](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/stylo.excelify.table.R) - might be very useful if you're having problems browsing through your results in Excel - thank you Iain!  
 [AntConc](http://www.laurenceanthony.net/software.html) - freeware for easy text analysis.  
+
+## Homework
+Think about an authorship case study you'd like to do tomorrow. We'll be learning classify() and rolling.classify(), which are methods for examinining influences on the author in detail. While we'll be able to provide you with data for experiments, you now know it's even more fun if you do your own thing.  
+You will need:  
+* 1 (or more) text you want to examine. It can be an anonymous work or a suspected collaborative work,
+* collection of texts by at least 2 potential authors,
+  * note that the amount of words for each of them should be roughly equal, so e.g. 5 texts of 10,000 words each for each of the authors is fine, but 5 of 10,000 i 10 of 100 - not.
+  
+  
