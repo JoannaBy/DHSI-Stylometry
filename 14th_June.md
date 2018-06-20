@@ -10,6 +10,9 @@
 #### From the coursepack
 * Burrows, J. “‘Delta’: A Measure of Stylistic Difference and a Guide to Likely Authorship.” Literary and Linguistic Computing, vol. 17, no. 3, Sept. 2002, pp. 267–87.  
 * Eder, M. “Rolling Stylometry.” Digital Scholarship in the Humanities, vol. 31, no. 3, Sept. 2016, pp. 457–69. 
+#### Extra - texts on culling
+* Hoover, D.L. [Testing Burrows's Delta](https://academic.oup.com/dsh/article-abstract/19/4/453/943644?redirectedFrom=fulltext)
+* Hoover, D.L. [Delta Prime?](https://academic.oup.com/dsh/article-abstract/19/4/477/943645?redirectedFrom=fulltext)
 
 #### From the coursepack - documentation of functions we used today:
 * [Short reminder](https://computationalstylistics.github.io/stylo_nutshell/#running-rolling.classify)
