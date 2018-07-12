@@ -10,7 +10,7 @@ Notes and materials for "Stylometry with R: Computer-Assisted Analysis of Litera
 [Jan's presentation 'Counting Literature' and final projects of participants](https://prezi.com/view/4nTUqpn3SY2Bsvj6ppc1/)
 
 ## Other presentations
-[Intro to culling](https://joannaby.github.io/Culling/Culling.html)
+[Intro to culling](https://joannaby.github.io/Culling/Culling.html)  
 [Intro to distance measures](https://joannaby.github.io/DistanceMeasures/distances.html)
 
 ## Notes from the meetings
