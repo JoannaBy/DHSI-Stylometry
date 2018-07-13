@@ -1,10 +1,11 @@
 # Stylo exercises
-This is a selection of a few exercises to practise working with 'stylo' on your own. Whether you're participating in one of our training sessions or learn on your own, feel free to use them.  
+This is an early selection of a few exercises to practise working with 'stylo' on your own. Whether you're participating in one of our training sessions or learn on your own, feel free to use them.  
 
 ## Data
 You can use your own corpus (highly recommended!) or one of the open access corpora we prepared and share on our github.  
 At the moment you can choose between [A Short Collection of British Fiction](https://github.com/computationalstylistics/A_Small_Collection_of_British_Fiction), [100 English Novels](https://github.com/computationalstylistics/100_english_novels) or [100 Polish Novels](https://github.com/computationalstylistics/100_polish_novels).  
 The only files you need for these exercises are the ones in your "corpus" folder.  
+Note also that you can use only a selection of texts from the corpus, which might be a good idea if you're working on a less powerful computer. 
 
 ## References & help
 If you get stuck, use our [training presentation](https://computationalstylistics.github.io/stylo_nutshell/) or more thorough materials:  
@@ -32,7 +33,7 @@ If you get stuck, use our [training presentation](https://computationalstylistic
 ### Create your own network in Gephi. Check if you can:
 * Load the data accordingly.   
 * Layout your nodes so as to read it clearly.  
-* Add labels to your nodes and make them appear on the graph. If your network is big do you remember how to align the labels?  
+* Add labels to your nodes and make them appear on the graph. If your network is big do you remember how to align the labels? 
 * Use *Modularity* algorithm to look at communities invisible to your eyes.  
 
 ### Can you see in your data two groups that may differ in an interesting way? Perhaps there seems to be a division between texts published earlier or later, authors from North and South, or men and women? Practise your 'oppose' skills. Check if you can:  
