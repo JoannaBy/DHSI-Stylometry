@@ -12,10 +12,10 @@ Notes and materials for "Stylometry with R: Computer-Assisted Analysis of Litera
 
 ## Other presentations
 [Intro to culling](https://joannaby.github.io/Culling/Culling.html)  
-[Intro to distance measures](https://github.com/JoannaBy/DHSI-Stylometry/DistanceMeasures.pdf)
+[Intro to distance measures](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/DistanceMeasures.pdf)
 
 ## A few exercises
-[Simple post-workshop training](https://github.com/JoannaBy/DHSI-Stylometry/exercises.md)
+[Simple post-workshop training](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/exercises.md)
 
 ## Notes from the meetings
 * [Day One](https://github.com/JoannaBy/DHSI-Stylometry/blob/master/11th_June.md)
