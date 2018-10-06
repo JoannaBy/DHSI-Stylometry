@@ -12,7 +12,7 @@
 #### Networks and "big" data
 * Eder, M.. “Does Size Matter? Authorship Attribution, Small Samples, Big Problem.” Literary and Linguistic Computing, vol. 30, no. 2, June 2015, pp. 167–82.  
 * Rybicki, J., and Eder, M. “Deeper Delta across Genres and Languages: Do We Really Need the Most Frequent Words?” Literary and Linguistic Computing, vol. 26, no. 3, Sept. 2011, pp. 315–21.  
-* Eder, M.. “Visualization in Stylometry: Cluster Analysis Using Networks.” Digital Scholarship in the Humanities, vol. 32, no. 1, Apr. 2017, pp. 50–64.  
+* Eder, M. “Visualization in Stylometry: Cluster Analysis Using Networks.” Digital Scholarship in the Humanities, vol. 32, no. 1, Apr. 2017, pp. 50–64.  
 
 ##### Extras:
 * David Hoover's work on Stylochronometry of Henry James:  
